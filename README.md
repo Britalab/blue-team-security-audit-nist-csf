@@ -66,4 +66,4 @@ The full audit report can be found in the /documents directory.
 Britanny Labraña
 Cybersecurity student – Blue Team focus
 📄 Full Audit Report (PDF):  
-[View Report](Botium_Toys_Internal_Security_Audit.pdf)
+[View Report](Botium_Toys_Internal_Audit.pdf)
